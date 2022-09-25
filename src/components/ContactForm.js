@@ -46,7 +46,6 @@ const ContactForm = (props) => {
                             <TextField
                                 required
                                 id="outline-number"
-                                type="number"
                                 label="Phone"
                                 variant="standard"
                                 name="phone"
